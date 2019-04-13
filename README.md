@@ -1,3 +1,7 @@
+> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+
+----
+
 # Every Programmer Should Know :thinking:
 A collection of (mostly) technical things every software developer should know.  
 
@@ -55,6 +59,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Time
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
+- :movie_camera: [The Problem with Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
 ### Memory
 - :page_facing_up: [What every Programmer should know about memory](https://lwn.net/Articles/250967/)
@@ -69,7 +74,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
+- [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
@@ -79,6 +84,12 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
+
+### UX/Usability
+- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+
 
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
@@ -93,6 +104,20 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 - [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
 - :page_facing_up: [How JavaScript works: part-1](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+
+### Engineering Philosophy
+- :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
+- :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
+- :movie_camera: [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
+- :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
+- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
+- :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
+- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+- :page_facing_up: [The Good Software Development Manifesto](https://www.infoworld.com/article/3214481/application-development/the-good-software-development-manifesto.html)
+
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
@@ -109,8 +134,11 @@ But knowing the stuff will help you become better! :muscle:*
 - [Hyperpolyglot](http://hyperpolyglot.org/)  
   Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](https://blog.metadevelopment.io/pomodoro-for-programmers/)
+- :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 ### Career
+- :moneybag: [Levels FYI](https://www.levels.fyi)  
+  Salary stats for various tech companies. Better than Glassdoor. 
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
@@ -122,6 +150,7 @@ But knowing the stuff will help you become better! :muscle:*
 - [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
 - :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
+- :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 - :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
@@ -131,29 +160,18 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 
-
-### UX/Usability
-- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+###  Fine-tune Your Resume 
+- :hammer: [CV Compiler](https://cvcompiler.com/)
 
 ### Open Source
 - :globe_with_meridians: [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ### Remote Work
+- :globe_with_meridians: [Remotive.io: Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
 - :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
-
-### Engineering Philosophy
-- :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
-- :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
-- :movie_camera: [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ&feature=youtu.be)
-- :movie_camera: [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&t=2s)
-- :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
-- :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
-- :page_facing_up: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
-- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
 
 ### Problem Solving
 - :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
@@ -163,6 +181,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
+### Mental Health
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)  
+  A curated list of awesome articles, websites and resources about mental health in the software industry.
 
 ### Papers on Programming
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
@@ -208,8 +230,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [CodeFights](https://codefights.com/)
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
+- :link: [Firecode.io](https://www.firecode.io/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
-- :link: [uCoder](ucoder.com.br)
+- :link: [uCoder](https://ucoder.com.br)
 - :link: [LintCode](https://www.lintcode.com/)
 - :link: [CodeCombat](https://codecombat.com/)
-
+- :link: [InterviewCake](https://www.interviewcake.com/)
+- :link: [At Coder](https://atcoder.jp/)
